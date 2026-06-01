@@ -1,0 +1,12 @@
+{
+  "top_offer": 1197502,
+  "val_size": 2050,
+  "holdout_size": 1690,
+  "opt_thresh": 0.2659292904342093,
+  "val_baseline_net_revenue": -414.36629965313114,
+  "val_max_net_revenue": 43.126043792005134,
+  "holdout_baseline_net_revenue": -535.2645507920477,
+  "holdout_net_revenue": -2.890490933831245,
+  "avg_unit_price": 3.342869581015534,
+  "avg_discount": 0.75
+}

@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# Data artifacts
-data/
+# Data artifacts (Allowed for Streamlit Community Cloud)
+# data/
