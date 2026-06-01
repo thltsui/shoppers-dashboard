@@ -1,4 +1,10 @@
 import streamlit as st
+import sys
+from pathlib import Path
+
+# Fix for Streamlit Cloud execution environment
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
 from app.theme import setup_page
 from app.panels import overview, cohort_split, acquisition, retention, policy
 
